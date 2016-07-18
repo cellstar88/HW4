@@ -1,0 +1,10 @@
+blockquote::before{
+  content: '今天天氣很好';
+}
+blockquote::after{
+  content: '來去溜小孩！！';
+}
+.cool div{
+  display: inline-block;
+    
+}

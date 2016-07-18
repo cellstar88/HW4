@@ -1,0 +1,1 @@
+document.write("學習javascript撰寫網頁!"); 
